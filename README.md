@@ -7,6 +7,10 @@ The project is fully **unit-tested** using the [Unity Test Framework](https://gi
 
 This project can act as a **foundation library** for larger projects like calculators, system utilities, or learning assignments.
 
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Build](https://img.shields.io/badge/Build-Makefile-green.svg)
+![Test](https://img.shields.io/badge/Testing-Unity%20Framework-orange.svg)
+
 ---
 
 ## 📂 Project Structure
